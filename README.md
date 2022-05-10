@@ -1,7 +1,9 @@
 ### Olá, tudo bem? Me chamo Leylane! 👋
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou me aprofundando na área de Desenvolvimento Front-End.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 22 anos
+- 👩‍💻 Aprendendo JavaScript
+- 🚀 Próximo: PHP
 - 😄 Pronomes: ela/dela
 
 <div>

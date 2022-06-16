@@ -2,8 +2,7 @@
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 22 anos
-- 👩‍💻 Aprendendo JavaScript
-- 🚀 Próximo: PHP
+- 👩‍💻 Aprendendo PHP
 - 😄 Pronomes: ela/dela
 
 <div>
